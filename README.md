@@ -1,6 +1,6 @@
 Developing Data Products Week 2 Project
 ================
-Jahanavi Sands
+Jahanavi Sanda
 May 29, 2020
 
 Peer-graded Assignment Week 2
